@@ -1,0 +1,457 @@
+name,value,tipo
+"Blanco, Javier Oscar",6,principal
+"Sandrone, Darío Rubén",4,principal
+"Percaz, Laura Lucía",15,principal
+"Trímboli, Javier Alfonso",15,principal
+"Buyán, Sandra Marcela",25,principal
+"Rivero, Marcela Mariana",17,principal
+"Campos, Mónica",27,principal
+"Pujadas, Mabel",24,principal
+"Eguiluz, Liliana",24,principal
+"Medel, Ricardo",70,principal
+"Pintos, Painé",77,principal
+"Pacheco, Verónica",77,principal
+"Bordone, Matías",70,principal
+"Moyano, Estela",12,principal
+"Pedrazzani,  Carla",8,principal
+"Lamelas, Gabriela",12,principal
+"Ramallo, Sabrina",12,principal
+"Pedrazzani, Carla",8,principal
+"Acuña, Carolina",15,principal
+Departamento de inglés,6,principal
+"López Rivilli, Marisa",25,principal
+"Martínez, María Soledad",25,principal
+"Lemme, Daniel Miguel",47,principal
+"Paulín, Horacio Luis",47,principal
+"Curetti, Sandra",54,principal
+"Picatto, Victoria",56,principal
+"Rivarosa, Alcira",33,principal
+"Diminich, María Cecilia",33,principal
+"Caverzacio, Luciana",25,principal
+Departamento de Inglés,10,principal
+"Díaz, Fabián",6,principal
+"Amuchástegui, A",13,principal
+"Cuello, S",13,principal
+"Díaz, Fabián Gabriel",13,principal
+"Jarchum, Patricia",13,principal
+"Nieto, P",13,principal
+"Peláez Zanatta, Citlali Irene",13,principal
+"Martínez, Cecilia",2,principal
+"García, Diego",6,principal
+"Cerdá, Celeste",6,principal
+"Torres, Martín",12,principal
+"Cagliero, Leandro",17,principal
+"Antrada, Adrián",6,principal
+"Antuña, Ana",14,principal
+"Del Prato, María Fernanda",14,principal
+"Andrada, Adrián",11,principal
+"Marconi, Nadia",13,principal
+"Galvan, Soledad",13,principal
+"Romagnoli, Silvana",2,principal
+"Galán, María Eugenia",2,principal
+"Morales, Susana",28,principal
+"Vidal, Elizabeth",28,principal
+"Partepilo, Vanesa",8,principal
+"Ruibal, Silvia",7,principal
+"Morello, Paulina",18,principal
+"Bowman, M. A",10,principal
+Esteves. E,10,principal
+"Vottero, Beatriz",22,principal
+"Daveloza, Valeria",15,principal
+"Curetti, Silvia",7,principal
+"Daveloza,  Valeria",8,principal
+"Bowman, María Alejandra",19,principal
+"Esteves, Edurne",4,principal
+Paola Roldán,11,principal
+Lucía Cugini,11,principal
+Romina Cassataro,11,principal
+"Terigi, Flavia",98,principal
+"Fontana, Adriana",32,principal
+"Alonso Alemany, Laura",53,principal
+"Bússoli, Silvia",3,principal
+"Rosso, María Eugenia",6,principal
+"Paredes, Silvia María",24,principal
+"Segal, Analía Edit (comp.)",9,principal
+"Yepes, Silvia Elizabeth",5,principal
+"Macchi, Silvia Analia",5,principal
+"González Kriegel, Gastón Pablo",23,principal
+"Basel, Valentín",31,principal
+"Sapag, Nora",2,principal
+Equipo ISEP,6,principal
+"Dussel, Inés",23,principal
+"Acin, Alicia",2,principal
+"Silva, Mónica",12,principal
+"Uliana, Andrea Soledad",2,principal
+"Analía De Longhi, AnalíaIIBermudez, Gonzalo",4,principal
+"Benvegnu, M. A",3,principal
+"Tomatis, Karina",7,principal
+"Barzola, Valeria",4,principal
+"Serra, Silvia",11,principal
+María Eugenia López y equipos de producción del ISEP,10,principal
+María Eugenia López,3,principal
+Facundo Boccardi,9,principal
+Adrián Andrada y Leandro Cagliero,5,principal
+"Viola, Fernanda",11,principal
+Sandra Curetti y Victoria Picatto,2,principal
+"Curetti, Silvia y Picatto, Victoria",3,principal
+Daniela A. Blasco,9,principal
+"Blasco, Daniela",3,principal
+"Migueltorena, Gabriela",5,principal
+"Abrate, Liliana",3,principal
+Abrate Liliana,3,principal
+Andrea Roxana Arnoletto,3,principal
+"Wolovelsky, E",9,principal
+Latour,5,citado
+Sandrone,9,citado
+Terigi,15,citado
+Vanella,2,citado
+Maldonado,6,citado
+Ziegler,3,citado
+Kessler,3,citado
+Lerner,12,citado
+Arendt,3,citado
+Baricco,6,citado
+Dussel,17,citado
+Meirieu,5,citado
+Rancière,5,citado
+Sadin,2,citado
+Simons,4,citado
+Masschelein,4,citado
+Simons y Masschelein,5,citado
+Freire,7,citado
+Bijker,6,citado
+Pinch,6,citado
+Anijovich,11,citado
+Chevallard,6,citado
+Davini,7,citado
+Litwin,3,citado
+López,3,citado
+Bombini,11,citado
+Edelstein,11,citado
+Larrosa,10,citado
+Aisenberg,2,citado
+Siede,3,citado
+Segal,2,citado
+Gojman,2,citado
+Castro,5,citado
+Lahire,3,citado
+Alliaud,6,citado
+Diker,5,citado
+Pineau,4,citado
+Broitman,4,citado
+Coria,5,citado
+Sadovsky,4,citado
+Santos,2,citado
+Tomlinson,3,citado
+Bernstein,2,citado
+Cimolai y Montero,2,citado
+Borges,3,citado
+Asimov,5,citado
+Murena,2,citado
+Truffaut,2,citado
+Badiou,2,citado
+Castillo,3,citado
+Tenti Fanfani,5,citado
+Frigerio,4,citado
+Achilli,10,citado
+Kaplan,2,citado
+Jackson,3,citado
+Caverzacio,2,citado
+Rockwell,3,citado
+Maldona,2,citado
+Servetto,3,citado
+Benjamin,2,citado
+Heidegger,2,citado
+Pennac,4,citado
+Bloch,2,citado
+Didi-Huberman,2,citado
+Cortázar,8,citado
+Alvarado,7,citado
+Bishop,3,citado
+Charnay,3,citado
+Paenza,7,citado
+Parra,5,citado
+Saiz,5,citado
+Bunge,5,citado
+"Fontana, López",4,citado
+Cotik y Monteverde,4,citado
+Herzog,4,citado
+"Leiner, Cerf, Clark, Kahn, Kleinrock, Lynch, Jon Postel, Lawrence, Wolff",4,citado
+Levis,5,citado
+Ludión,4,citado
+Luisrichelieu,4,citado
+Masschelein y Simons,4,citado
+Pagola,5,citado
+Aduriz Bravo,3,citado
+"Bell, Witten y Fellows",4,citado
+Blanco y Martínez,4,citado
+Brennan y Resnick,4,citado
+Pastore,4,citado
+Tedre y Denning,4,citado
+Wing,4,citado
+Benedetti,4,citado
+Gurevich,4,citado
+Offen,4,citado
+Lois,4,citado
+"Adell, Llopis, Esteve y Valdeolivas",4,citado
+Aho,4,citado
+Perlis,4,citado
+Bebea,4,citado
+"Denning, Comer, Gries, Mulder, Tucker, Turner y Young",4,citado
+Geddes Wilson,4,citado
+Preciado,4,citado
+Paper,4,citado
+Uterra,4,citado
+Vicario Solórzano,4,citado
+Zapata-Ros y Pérez-Paredes,4,citado
+"Blanco, García, y Cherini",4,citado
+Busaniche,4,citado
+Clarke,4,citado
+Klein y Posne,4,citado
+Dijkstra,4,citado
+D’Ippolito,4,citado
+Ferreras,4,citado
+Ferreirós,4,citado
+Lessig,4,citado
+Méndez,4,citado
+Stallman,5,citado
+Tyldum,4,citado
+Rodríguez Pesce y Onetti,4,citado
+Turing,4,citado
+Zabala,4,citado
+Cuccuza,4,citado
+Minguillón,4,citado
+Pérez-Montoro,4,citado
+Benotti,4,citado
+Echeveste y Martínez,4,citado
+Maggio,4,citado
+Papert,5,citado
+Molloy,2,citado
+Harmer,3,citado
+Klimovsky,2,citado
+Samaja,3,citado
+López Ruperez,2,citado
+Kovac,2,citado
+Verret,2,citado
+Bermúdez,2,citado
+De Longhi,4,citado
+Shulman,2,citado
+Garritz Ruiz,2,citado
+Morine-Dershimer y Kent,2,citado
+Sanmartí,4,citado
+Newton,2,citado
+Stuckey et al,2,citado
+Gagliardi,2,citado
+Padilla,2,citado
+Bressan,2,citado
+Brousseau,2,citado
+Díaz Barriga,2,citado
+Etchemendy,2,citado
+Itzcovich,6,citado
+Zabala Vidiella,2,citado
+Brizuela y Schliemann,2,citado
+Crespo,2,citado
+Panizza,3,citado
+Bergadá Mugica,3,citado
+Kopitovski,3,citado
+Parra y Saiz,3,citado
+Adaszko,2,citado
+Balardini,2,citado
+Canales Cerón,2,citado
+Chaves,2,citado
+D’Aloisio,2,citado
+Dayrell,2,citado
+Fernández López,2,citado
+Jones,2,citado
+Margulis,2,citado
+Morgade,3,citado
+Sibilia,2,citado
+Dreier,2,citado
+Lastra,2,citado
+Paulín,2,citado
+Tomasini,2,citado
+Martuccelli,2,citado
+Mejía Hernández,2,citado
+Míguez,2,citado
+Southwell,3,citado
+Bertarelli,2,citado
+Blázquez,2,citado
+Cerdá,2,citado
+Coleman,3,citado
+Di Leo,2,citado
+Duarte,2,citado
+Dubet,2,citado
+Hartup,2,citado
+Hernández González,2,citado
+Maffesoli,2,citado
+Sánchez,2,citado
+Previtali,2,citado
+Reguillo,2,citado
+Saucedo Ramos,2,citado
+Weiss,2,citado
+Chardo,2,citado
+|García Bastán,2,citado
+Mendel,2,citado
+Pautassi,2,citado
+Villagra,2,citado
+Caparelli,2,citado
+Barthes,7,citado
+Bixio,2,citado
+Bosque,2,citado
+Cassany,6,citado
+Frugoni,2,citado
+Giardinelli,2,citado
+Max Cardinali,2,citado
+Petit,2,citado
+Ong,2,citado
+Sardi,3,citado
+Andruetto,2,citado
+Bodoc,2,citado
+Carranza,2,citado
+Colomer,2,citado
+Daveloza,2,citado
+Vottero,4,citado
+Devetach,3,citado
+Gerbaudo,2,citado
+Hans,2,citado
+Hermida,2,citado
+Kavcic,2,citado
+Labeur,2,citado
+Montes,3,citado
+Piglia,2,citado
+Robledo,2,citado
+Pampillo,2,citado
+Rodríguez,4,citado
+Tobelem,2,citado
+Lardone,2,citado
+Bajour,2,citado
+Cañón,2,citado
+Stapich,2,citado
+Chambers,2,citado
+Da Col,2,citado
+Díaz Rönner,2,citado
+Garralón,2,citado
+Machado,2,citado
+Nieto,2,citado
+Ortiz,2,citado
+Rodari,2,citado
+Smania,2,citado
+Bibbó,2,citado
+Skliar,5,citado
+Bachelard,4,citado
+Furió-Más y Sales,4,citado
+Descal,4,citado
+Cubero Pérez,4,citado
+Martínez,4,citado
+Adúriz-Bravo,2,citado
+Mayr,3,citado
+Pozo,2,citado
+Durkheim,2,citado
+Malajovich,2,citado
+Anderson,2,citado
+Dendrinos,2,citado
+Kurniasih,2,citado
+Beacon,2,citado
+Cendoya,2,citado
+Rubdy,2,citado
+García,2,citado
+Morin,5,citado
+Rivarosa,2,citado
+Wenger,2,citado
+Schnek,2,citado
+Izquierdo,2,citado
+Serquis,2,citado
+Martínez Lorenzo,2,citado
+Maguregui,2,citado
+Haraway,2,citado
+Macnaghten,2,citado
+Urry,2,citado
+Tréllez Solis,2,citado
+Quiroz,2,citado
+Leff,2,citado
+Foladori,2,citado
+Sobel,2,citado
+Wilson,2,citado
+Rechia,2,citado
+Cappelletti,3,citado
+Odetti,2,citado
+Comenio,8,citado
+Hassoun,2,citado
+Tarcus,2,citado
+Torre,2,citado
+Garzón Maceda,2,citado
+Varela,2,citado
+"Andrada, Kisbye y Campagnolo",2,citado
+Canal encuentro,2,citado
+Cagliero y equipos de producción del ISEP,2,citado
+Block Sevilla,3,citado
+"Andrada, Cagliero y equipos de producción del ISEP",5,citado
+Seoane y Seoane,5,citado
+Maldonado y Campagnolo,2,citado
+Meek,2,citado
+Solé,2,citado
+Flowers,2,citado
+Giménez,2,citado
+ScardamaliayBereiter,2,citado
+Vich y Zavala,2,citado
+"Turner, R",3,citado
+"Banchoff, C",3,citado
+"Bebea, I",3,citado
+"Marradi, Archenti y Piovani",3,citado
+"Hernández Sampieri, Fernández Collado y Baptista Lucio",2,citado
+Horkheimer,3,citado
+Berelson,2,citado
+García-Jiménez,2,citado
+Lowental,2,citado
+Lévi-Strauss,2,citado
+Adorno,2,citado
+Foucault|Hall,2,citado
+Williams,2,citado
+Dos Santos,2,citado
+Marques de Melo,2,citado
+Pasquali,2,citado
+Muraro,2,citado
+Esteinou Madrid,2,citado
+Mattelart,2,citado
+Schmucler,2,citado
+Fox de Cardona,2,citado
+Mosco,2,citado
+Shcmucler,2,citado
+Barbero,2,citado
+Orozco Gomez,2,citado
+García Canclini,2,citado
+Bustamante,2,citado
+Mastrini y Becerra,2,citado
+Szurmuk e Irwin,2,citado
+Zuboff,2,citado
+Torrico Villanueva,2,citado
+"Marradi,Archenti,Piovani",3,citado
+"Sautu,Boniolo,Dalle,Elbert",3,citado
+Sautu,4,citado
+Rojas Soriano,2,citado
+"De Jesús, Andrades & Martínez y Méndez",2,citado
+Buenfil,2,citado
+Pievi,2,citado
+Convención Internacional sobre los Derechos de las Personas con Discapacidad,2,citado
+"Chevallard, Yves",2,citado
+RAE,2,citado
+CILE,2,citado
+Emilia Ferreiro,2,citado
+Michael Halliday,2,citado
+Saussure,2,citado
+Bourdieu,2,citado
+Vigotsky,2,citado
+Coseriu,2,citado
+Benveniste,2,citado
+Wellek,2,citado
+Warren,2,citado
+Ludmer,3,citado
+Oyuela,2,citado
+Giusti,2,citado
+Zelmanovich,2,citado
+Eloísa Solaas,3,citado
+Jorge Larrosa,3,citado
+Ángel Díaz Barriga,3,citado
+Camilloni,3,citado
+Blanca Trujillo,3,citado
+Maite Alvarado,3,citado
